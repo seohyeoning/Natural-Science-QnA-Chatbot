@@ -12,8 +12,14 @@
 - 챗봇 성능 평가 (MRR 및 Top-K Accuracy 측정)
 
 ## 웹 페이지
-![Image](https://github.com/user-attachments/assets/1fb0d7a0-4416-42bc-b451-f99c194f688e)
-![Image](https://github.com/user-attachments/assets/ea500bb5-7cb5-452e-9f38-c61ff673b12f)
+<table>
+  <tr>
+    <td><img src="https://github.com/user-attachments/assets/1fb0d7a0-4416-42bc-b451-f99c194f688e" width="300"></td>
+    <td><img src="https://github.com/user-attachments/assets/ea500bb5-7cb5-452e-9f38-c61ff673b12f" width="300"></td>
+  </tr>
+</table>
+
+
 ## 🛠 사용된 기술
 - **프론트엔드**: Streamlit
 - **백엔드**: Python
