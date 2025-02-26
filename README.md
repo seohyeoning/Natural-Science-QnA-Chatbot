@@ -1,4 +1,4 @@
-## Natural-Science-QnA-Chatbot
+# Natural-Science-QnA-Chatbot
 
 ## 프로젝트 개요
 자연과학 Q&amp;A 챗봇은 사용자가 입력한 자연과학 관련 질문에 대해 AI가 자주 묻는 질문을 추천해주고, 답변을 찾아 제공하는 시스템입니다. Sentence-BERT 및 TF-IDF 모델을 활용하여 kaggle의 microbiology qna를 기반으로 질문의 의미를 파악하고 최적의 답변을 찾아줍니다.
