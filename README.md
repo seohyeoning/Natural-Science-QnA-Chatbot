@@ -81,13 +81,13 @@ SBERT 모델이 의미 기반 검색이 가능하여 TF-IDF 모델 대비 우수
   - 영문 성능 평가 
 - [장하영](hayoomee1214@gmail.com)
   - SBERT 임베딩 저장 및 추론 기능 구현
-  - streamlit 웹 개발 
+  - Front-end 개발 담당
 - 김태호
   - TF-IDF 임베딩 저장 및 추론 기능 구현   
   - 번역 기능 개발 및 한글 성능 평가
 - 윤주완
   - Documentation 작성
-  -  
+  -  Front-end 개발 지원
 
 ## 🔥 향후 개선 사항
 - QnA 데이터셋 확장 및 지속적인 업데이트
