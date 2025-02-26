@@ -82,7 +82,7 @@ SBERT 모델이 의미 기반 검색이 가능하여 TF-IDF 모델 대비 우수
 - [@hayoomee1214](https://github.com/hayoomee1214)  
   - SBERT 임베딩 저장 및 추론 기능 구현
   - Front-end 개발 담당
-- [@taeho2663](https://github.com/taeho2663)
+- [@DefJamNoJam](https://github.com/DefJamNoJam)
   - TF-IDF 임베딩 저장 및 추론 기능 구현   
   - 번역 기능 개발 및 한글 성능 평가
 - 윤주완
