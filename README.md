@@ -77,8 +77,8 @@ python eval_tfidf.py
 SBERT 모델이 의미 기반 검색이 가능하여 TF-IDF 모델 대비 우수한 성능을 보였습니다.
 
 ## 기여자
-- 박서현
-- 장하영
+- [박서현](seohyeoning@gmail.com)
+- [장하영](hayoomee1214@gmail.com)
 - 김태호
 - 윤주완
 
